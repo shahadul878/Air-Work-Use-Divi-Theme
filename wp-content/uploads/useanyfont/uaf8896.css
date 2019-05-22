@@ -1,0 +1,13 @@
+			@font-face {
+				font-family: 'gill-sans';
+				font-style: normal;
+				src: url('161018065542GILL-SANS.eot');
+				src: local('gill-sans'), url('161018065542GILL-SANS.eot') format('embedded-opentype'), url('161018065542GILL-SANS.woff') format('woff');
+			}
+            
+            .gill-sans{font-family: 'gill-sans' !important;}
+            
+						body, h1, h2, h3, h4, h5, h6, p, blockquote, li, a{
+					font-family: 'gill-sans' !important;
+				}
+		
